@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0229-majority-element-ii](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |

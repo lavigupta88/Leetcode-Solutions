@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0018-4sum) |
 ## Prefix Sum
 |  |
 | ------- |

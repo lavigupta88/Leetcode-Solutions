@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0856-score-of-parentheses](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack

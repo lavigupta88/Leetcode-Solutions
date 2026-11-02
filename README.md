@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1200-minimum-absolute-difference](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1200-minimum-absolute-difference](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Counting

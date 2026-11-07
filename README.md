@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1882-process-tasks-using-servers](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1920-build-array-from-permutation](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2747-count-zero-request-servers](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
@@ -202,5 +203,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/lavigupta88/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
